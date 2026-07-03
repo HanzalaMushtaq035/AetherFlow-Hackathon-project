@@ -1,6 +1,15 @@
 # 🚀 AetherFlow AI
 ## Multi-Agent Concierge Platform for Local Service Discovery and Booking
 
+## Team
+
+**Team Name:** Scaller AI  
+**Team Size:** 1
+
+**Developer:** Hanzala Mushtaq
+
+Designed, developed, and deployed independently for the Kaggle Vibecoding Agents Capstone Project.
+
 <div align="center">
 
 ### 🏆 Kaggle Agentic AI Competition 2026 Submission
