@@ -14,13 +14,13 @@ Built with:
 **Next.js • Supabase • Gemini • Capacitor • OpenStreetMap**
 
 📱 **APK Download:**  
-https://drive.google.com/file/d/1-agbDQvWJ6AqlFczwlHrVmQ3u0euQEL7/view?usp=sharing
+[https://drive.google.com/file/d/1s5txEfKIKCi90CZWWRiyoMPXR6Uainnk/view?usp=sharing](https://drive.google.com/file/d/1s5txEfKIKCi90CZWWRiyoMPXR6Uainnk/view?usp=sharing)
 
 🎥 **Demo Video:**  
-https://drive.google.com/file/d/1Ia4jZCvevbrkyyXnn7pnG6jagXVo3_qA/view?usp=sharing
+[https://youtu.be/_eX634xteLI](https://youtu.be/_eX634xteLI)
 
 🤖 **Antigravity Development Video:**  
-https://drive.google.com/file/d/1pgyHTuFA7jwtyw9RUPnXbA9GtDyiWpZX/view?usp=sharing
+[https://youtu.be/IWHaI4CPh-g](https://youtu.be/IWHaI4CPh-g)
 
 </div>
 
